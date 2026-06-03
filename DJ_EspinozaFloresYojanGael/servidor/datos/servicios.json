@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fiesta privada",
+    "texto": "Música para cumpleaños, reuniones y eventos pequeños.",
+    "costo": 3500,
+    "incluye": [
+      "mezcla en vivo",
+      "bocinas",
+      "luces básicas"
+    ],
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Boda",
+    "texto": "Servicio para ceremonia, cena y fiesta.",
+    "costo": 8000,
+    "incluye": [
+      "mezcla en vivo",
+      "bocinas",
+      "luces",
+      "micrófono"
+    ],
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Evento de empresa",
+    "texto": "Música y sonido para convivios, lanzamientos y reuniones de empresa.",
+    "costo": 6500,
+    "incluye": [
+      "sonido",
+      "mezcla",
+      "micrófono"
+    ],
+    "activo": true
+  }
+]

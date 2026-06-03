@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mesa chica",
+    "detalle": "Mesa sencilla para laptop y controladora.",
+    "precio": 2499,
+    "foto": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=900&q=80",
+    "stock": 5,
+    "activa": true
+  },
+  {
+    "id": 2,
+    "nombre": "Mesa pro",
+    "detalle": "Mesa con más espacio para mixer, laptop y accesorios.",
+    "precio": 4999,
+    "foto": "https://images.unsplash.com/photo-1571266028243-d220bc1096d4?auto=format&fit=crop&w=900&q=80",
+    "stock": 3,
+    "activa": true
+  },
+  {
+    "id": 3,
+    "nombre": "Mesa con luz",
+    "detalle": "Mesa más vistosa para eventos y setups grandes.",
+    "precio": 7999,
+    "foto": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=900&q=80",
+    "stock": 2,
+    "activa": true
+  }
+]
